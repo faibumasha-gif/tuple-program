@@ -38,8 +38,5 @@ This repository contains Python programs that demonstrate various **Tuple** oper
 python filename.py
 ```
 
-## 👩‍💻 Author
-
-**Kamarunisha Kamaru**
-
-GitHub: https://github.com/faibumasha-gif
+Author
+Kamaru Nisha
